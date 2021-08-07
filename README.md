@@ -34,7 +34,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="sass-1.svg" height="40px" width="40px"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="sass-1.svg" height="42px" width="42px"/> </a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="c-sharp.png" height="43px" width="43px"/> </a>  
 </p>
 
