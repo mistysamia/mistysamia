@@ -6,11 +6,11 @@
 
 ## 🙋🏻‍♀️About Me
 
-- 🖥️ I’m currently learning on **[Machine Learning]**
+- 🖥️ I’m currently learning on **Machine Learning**
 
 - 🌱 I love learning **Data Structures and Algorithms.**
 
-- 💡 Currently working on **[REST API]**
+- 💡 Currently working on **REST API**
 
 - 👩🏻‍💻 All of my projects are available at **[Github](https://github.com/mistysamia)**
 
