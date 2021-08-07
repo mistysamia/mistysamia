@@ -4,15 +4,15 @@
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋🏻‍♀️About Me
 
-- 🔭 I’m currently learning on **[Machine Learning]**
+- 🖥️ I’m currently learning on **[Machine Learning]**
 
 - 🌱 I love learning **Data Structures and Algorithms.**
 
-- 🔭 I’m currently working on **[REST API]**
+- 💡 Currently working on **[REST API]**
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/mistysamia)**
+- 👩🏻‍💻 All of my projects are available at **[Github](https://github.com/mistysamia)**
 
 - 📫 How to reach me **srm.rahman2021@gmail.com**
 
@@ -34,6 +34,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -45,7 +46,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Statistics
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Misty Samia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
