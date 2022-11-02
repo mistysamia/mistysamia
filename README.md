@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistysamia&label=Profile%20views&color=0e75b6&style=flat" alt="mistysamia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistysamia" alt="mistysamia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistysamia" alt="mistysamia" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KFte7DIkGu2u_Pct9AFBdGSZknfTlF2D/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/samia rahman misty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samia rahman misty" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/misty_sami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="misty_sami" height="30" width="40" /></a>
@@ -46,7 +46,7 @@
 
 
 <br/><br/><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistysamia&bg_color=0D1117&color=5BCDEC" alt="mistysamia" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mistysamia&theme=tokyonight)](https://git.io/streak-stats)
 <br/>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Misty Samia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
