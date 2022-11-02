@@ -30,7 +30,6 @@
 </p>
 
 <hr/>
-<br/>
 
 
 ## 🎯 Languages and Tools
@@ -46,11 +45,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&theme=tokyonight)
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Misty Samia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27"><img alt="Misty Samia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" /></a>
   <br/>
  
-
-<br/><br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mistysamia&theme=tokyonight)](https://git.io/streak-stats)
 <br/>
