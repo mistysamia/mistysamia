@@ -55,7 +55,7 @@
 
 <a href="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Misty Samia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mistysamia&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mistysamia&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
