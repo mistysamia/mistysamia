@@ -1,3 +1,4 @@
+<h1 align="center"><a href="#"><img align="center" width="15%" height="15%" margin-left="100px" src="profilePic.svg"/></a></h1>
 <h1 align="center">Hi 👋, I'm Misty</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer.</h3>
 
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **srm.rahman2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KFte7DIkGu2u_Pct9AFBdGSZknfTlF2D/view?usp=sharing](https://drive.google.com/file/d/1KFte7DIkGu2u_Pct9AFBdGSZknfTlF2D/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KFte7DIkGu2u_Pct9AFBdGSZknfTlF2D/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
