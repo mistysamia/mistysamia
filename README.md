@@ -54,5 +54,3 @@
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=mistysamia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-<br/>
