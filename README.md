@@ -5,7 +5,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&bg_color=0D1117"><img src="https://github-profile-trophy.vercel.app/?username=mistysamia&bg_color=0D1117" alt="mistysamia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=mistysamia&theme=onedark" alt="mistysamia" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning**
 
