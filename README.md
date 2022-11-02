@@ -44,6 +44,9 @@
 
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Misty Samia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&theme=tokyonight)
+
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Misty Samia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -53,7 +56,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mistysamia&theme=tokyonight)](https://git.io/streak-stats)
 <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mistysamia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=mistysamia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
