@@ -43,14 +43,14 @@
 
 <br/>
 
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27"><img alt="Misty Samia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" /></a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&theme=tokyonight)
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27"><img alt="Misty Samia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" /></a>
-  <br/>
  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mistysamia&theme=tokyonight)](https://git.io/streak-stats)
-<br/>
+
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=mistysamia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
