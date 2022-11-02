@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KFte7DIkGu2u_Pct9AFBdGSZknfTlF2D/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/samia rahman misty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samia rahman misty" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/misty_sami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="misty_sami" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samia rahman misty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samia rahman misty" height="30" width="40" /></a>
@@ -45,8 +45,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<p><img align="center" bg_color="0D1117" src="https://github-readme-streak-stats.herokuapp.com/?user=mistysamia&" alt="mistysamia" /></p>
+<br/><br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistysamia&bg_color=0D1117&color=5BCDEC" alt="mistysamia" /></p>
 <br/>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Misty Samia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
