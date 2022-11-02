@@ -46,7 +46,7 @@
 
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistysamia&" alt="mistysamia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="mistysamia" /></p>
 <br/>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Misty Samia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
