@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **srm.rahman2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KFte7DIkGu2u_Pct9AFBdGSZknfTlF2D/view?usp=sharing](Resume)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1KFte7DIkGu2u_Pct9AFBdGSZknfTlF2D/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +36,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&locale=en" alt="mistysamia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistysamia&" alt="mistysamia" /></p>
+
+## 📊 My Github Statistics
+
+  <br/>
+    <a href="https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Misty Samia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mistysamia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Misty Samia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistysamia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Misty Samia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistysamia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
