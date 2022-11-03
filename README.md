@@ -11,7 +11,7 @@
 
 - 🌱 I love learning **Data Structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at [Github]**(Github)**
+- 👨‍💻 All of my projects are available at [Github](Github)
 
 - 💬 Ask me about **React, Node, Express,ThreeJS.**
 
