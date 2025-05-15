@@ -7,17 +7,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=mistysamia&theme=onedark" alt="mistysamia" /></a> </p>
 
-- Currently working on Machine Learning and Deep Learning projects
+- 🚀 Currently working on Machine Learning and Deep Learning projects.
 
-- Passionate about Data Structures and Algorithms with regular problem solving on LeetCode
+- 📚 Passionate about Data Structures and Algorithms with regular problem solving on LeetCode.
 
-- Conducting research in the field of Brain-Computer Interfaces (BCI), exploring advanced human-computer interaction techniques
+- 🧠 Conducting research in the field of Brain-Computer Interfaces (BCI), exploring advanced human-computer interaction techniques.
 
-- All of my projects are available at GitHub
+- 💻 All of my projects are available at GitHub.
 
-- Feel free to ask me about React, Node.js, Express, ASP.NET, and Three.js
+- 💬 Feel free to ask me about React, Node.js, Express, ASP.NET, and Three.js.
 
-- Contact me at srm.rahman2021@gmail.com
+- 📫 Contact me at srm.rahman2021@gmail.com.
 
 
 <h3 align="center">Connect with me:</h3>
