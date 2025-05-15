@@ -1,7 +1,7 @@
 <h1 align="center"><a href="#"><img align="center" width="15%" height="15%" margin-left="100px" src="profilePic.svg"/></a></h1>
 <h1 align="center">Hi 👋, I'm Misty</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mistysamia&label=Profile%20views&color=0e75b6&style=flat" alt="mistysamia" /> </p>
-<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer.</h3>
+<h3 align="center">AI Engineer specializing in Machine Learning, Deep Learning and research in Brain-Computer Interfaces.</h3>
 
 
 
