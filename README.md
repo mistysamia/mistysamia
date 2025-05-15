@@ -7,15 +7,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=mistysamia&theme=onedark" alt="mistysamia" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning**
+- Currently working on Machine Learning and Deep Learning projects
 
-- 🌱 I love learning **Data Structures and Algorithms.**
+- Passionate about Data Structures and Algorithms with regular problem solving on LeetCode
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- Conducting research in the field of Brain-Computer Interfaces (BCI), exploring advanced human-computer interaction techniques
 
-- 💬 Ask me about **React, Node, Express,ThreeJS.**
+- All of my projects are available at GitHub
 
-- 📫 How to reach me **srm.rahman2021@gmail.com**
+- Feel free to ask me about React, Node.js, Express, ASP.NET, and Three.js
+
+- Contact me at srm.rahman2021@gmail.com
 
 
 <h3 align="center">Connect with me:</h3>
